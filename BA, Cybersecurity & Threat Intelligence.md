@@ -68,7 +68,7 @@ Working together, the teams ensure:
 
 ---
 
-## For Beginners Like Me
+## For Beginners 
 
 As someone just starting out in both cybersecurity and business analysis, I’ve found this intersection fascinating. I’m learning how:
 - Business goals can shape the way we implement security
