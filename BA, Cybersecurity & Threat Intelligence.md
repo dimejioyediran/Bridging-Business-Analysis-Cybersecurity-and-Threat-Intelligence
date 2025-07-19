@@ -92,7 +92,3 @@ Whether you’re a beginner or a seasoned expert, understanding the relationship
 - 💻 GitHub: [dimejioyediran](https://github.com/dimejioyediran)  
 - 📧 Email: dimejioyemarky@gmail.com  
 - 🔗 LinkedIn: [Oladimeji Oyediran](https://www.linkedin.com/in/oladimeji-oyediran-657658238)
-
----
-
-> ⭐️ This write-up is part of my beginner cybersecurity journey. Feel free to fork, share ideas, or contribute if you’re also exploring this path.
